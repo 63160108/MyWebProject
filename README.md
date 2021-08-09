@@ -1,8 +1,6 @@
-# MyWebProject
- เรียน
 # Javascript Alert App
 
-โปรเจคเว็บแอพฯ จัดทําโดย (Suphaphit Puyati)
+โปรเจคเว็บแอพฯ จัดทําโดย Suphaphit Puyati
 
 ## Features
 
