@@ -13,13 +13,13 @@
 • List 3
 
 ## Example code
-
+```
 <javascript>
 
 alert(‘ok’);
 
 </javascript>
-
+```
 
 ## Credit
 
