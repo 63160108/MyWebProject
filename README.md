@@ -21,7 +21,7 @@ alert(‘ok’);
 
 ## Credit
 
-[myemail.gmail.com](https://mail.google.com/mail/u/0/#inbox)
+[myemail.gmail.com](https://mail.google.com/mail/u/2/?ogbl#inbox)
 
 ## License
 
